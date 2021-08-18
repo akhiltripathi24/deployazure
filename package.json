@@ -1,0 +1,15 @@
+{
+  "name": "deployazure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.jss",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhil Tripathi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
