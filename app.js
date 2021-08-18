@@ -3,7 +3,7 @@ const app = express()
 const port = 3000
 
 app.get('/', (req, res) => {
-  res.send('Hello World - From Azure deployed Node App!')
+  res.send('Hello World - Azure deployed Node App!')
 })
 
 app.listen(port, () => {
